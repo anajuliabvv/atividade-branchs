@@ -7,3 +7,4 @@ Atividade professor Fabio
 
 ## Funcionalidade: Cadastro
 - Estrutura inicial do cadastro de usuários.
+- Adiciona campos de nome, e-mail e senha.
