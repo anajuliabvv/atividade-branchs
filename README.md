@@ -16,3 +16,6 @@ Atividade professor Fabio
 ## Funcionalidade: Carrinho
 - Estrutura inicial da funcionalidade de carrinho.
 - Adiciona produtos ao carrinho.
+
+## Funcionalidade: Pagamento
+- Estrutura inicial da funcionalidade de pagamento.
