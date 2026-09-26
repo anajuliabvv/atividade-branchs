@@ -19,3 +19,4 @@ Atividade professor Fabio
 
 ## Funcionalidade: Pagamento
 - Estrutura inicial da funcionalidade de pagamento.
+- Adiciona as formas de pagamento.
