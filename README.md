@@ -23,3 +23,4 @@ Atividade professor Fabio
 
 ## Funcionalidade: Perfil
 - Estrutura inicial da funcionalidade de perfil.
+- Adiciona informações do perfil.
