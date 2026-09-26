@@ -12,3 +12,6 @@ Atividade professor Fabio
 ## Funcionalidade: Produtos
 - Estrutura inicial do cadastro de produtos.
 - Adiciona informações de nome, preço e descrição.
+
+## Funcionalidade: Carrinho
+- Estrutura inicial da funcionalidade de carrinho.
